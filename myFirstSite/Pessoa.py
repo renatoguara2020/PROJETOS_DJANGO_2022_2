@@ -6,7 +6,7 @@ class Pessoa:
 
 
 if __name__ == "__main__":
-    pessoa1 = Pessoa("RENATO ALVES SOARES", "Masculino", "123456")
+    pessoa1 = Pessoa("RENATO ALVES SOARES", "Masculino", "489.708.933.89")
 
     print(pessoa1.nome)
     print(pessoa1.cpf)
